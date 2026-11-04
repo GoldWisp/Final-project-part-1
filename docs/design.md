@@ -1,1 +1,1 @@
-
+We will have loops in our code as well as have variables for testsrun, testsPassed, as well as a varaiable if its out of range, so then the light turns on. we would have to figure out the code for command that makes it turn on if it is out of range.
